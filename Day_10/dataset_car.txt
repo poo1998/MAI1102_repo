@@ -1,0 +1,28 @@
+﻿
+
+*****************          dataset car            ***************** 
+
+1. find the model name of the cars which is  3 characters  from end
+2. find the students lastname with 3 characters  from starting
+3. remove the rd from the model name  of all the car names
+4. find the location of 'r' in model name of cars
+5. get the substring from index 4 to 2 characters from model name 
+
+--  if you wanted to take the sums of several columns, then average all of those values, you’d need to do each aggregation in a distinct step.
+
+6. find the sum of mpg and also print the average mpg  from all the years of car data
+
+
+7.  show all the car ids those has modelname or not registered as a model in car_names table
+
+
+8. display the cars who has  same horse power from cars_data
+
+
+
+ 
+
+
+
+
+

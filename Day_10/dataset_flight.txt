@@ -1,0 +1,20 @@
+﻿
+
+*****************          dataset   flightdb          **************** 
+
+1. find the abbreviations of flights  3 characters long  last
+2. find the abbreviations of flights with 3 characters  from starting
+3. remove the 'ir' from all the abbreviations of flights
+4. find the location on 'i' in abbreviations of flights
+5. get the substring from index 4 to 2 characters from abbreviations of flights
+
+--  if you wanted to take the sums of several columns, then average all of those values, you’d need to do each aggregation in a distinct step.
+
+6. find the count of all flights for airlines and make average of that
+
+7. show all the airline id those having airline name and flights associated 
+
+
+8. display the flights who shares  same airlines
+
+

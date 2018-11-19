@@ -1,0 +1,16 @@
+﻿
+*****************          dataset   campuses          **************** 
+
+1. find the location of campuses 3 characters  last 
+2. find the location of campuses with 3 characters from starting
+3. remove the ld from the location of all campuses
+4. find the location on 'i' in location of all campuses
+5. get the substring from index 4 to 2 characters from lastname column
+
+--  if you wanted to take the sums of several columns, then average all of those values, you’d need to do each aggregation in a distinct step.
+
+6. find the sum of all campuses fee and also print the average fee from all the years
+
+7. show all the campus ids those has campus names and fees records 
+
+8. show campuses those are at same location

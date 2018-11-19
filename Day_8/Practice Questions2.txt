@@ -1,0 +1,130 @@
+
+
+
+Q 12.
+-- Select all flights whose airline number is 3 from ?
+
+
+Q 13. 
+ Display count of every Food from goods table ?
+
+   
+   
+   
+   Q 14
+   
+ Display How many entries are there in carmakers table ?
+
+
+
+Q 15.
+Display average number of carmakers from country 2 ?
+
+
+Q 16.
+ Display the total price of Each Flavour ?
+
+ 
+ 
+
+Q 17.
+Display the maximum country code number ?
+
+
+
+Q 18
+Display the minimum country code number   ?
+
+ 
+Q 19.
+Display average price for Cake or Eclair?
+
+
+Q 20
+ Display the maximum price of each Food  ?
+
+ 
+ 
+
+Q 21.
+ Display average number of enrollment from campus 2 ?
+
+
+ Q 22
+Display the maximum campus code number  ?
+
+
+
+
+Q 23
+Display the minimum price of each Flavour ?
+
+
+Q 24
+Display count of each Food, 
+   which have Chocolate Flavour , 
+   also arrange food's name in alphabetical order
+ 
+
+
+Q 25
+Display the minimum campus code number  ?
+
+
+
+Q 26
+Find all non-four cylinder cars produced in 1980 that have a better
+ fuel economy better 
+than 20 MPG and that accelerate to 60 mph faster
+than in 15 seconds. 
+
+
+
+Q 27
+Find all cars produced by Volvo between 1977 and 1981 (inclusive).
+
+Report the name of the car and the year it was produced,
+sort output
+ in ascending order by the year.
+ 
+ 
+ Q 28
+  Display count of totalcsufee_AYs from every campus and sort them in ascending order
+  
+  
+  
+  Q 29
+  Display totalcsufee_AY column from csufee table without duplicates
+  
+  
+  
+  Q 30
+  Display count of each car totalcsufee_AY , 
+--    who have value of campus equal to or more than 3
+
+
+
+Q 31.
+Display average grade for each classroom from students table in descending order ?
+
+
+
+Q 32
+Display the maximum grade of each classroom from students table and sort them by maximum grade ?
+
+
+Q 33
+Display the grade, Firstname, Secondname and classroom of top 3 students according to their grade 
+  
+  
+  
+  Q 34
+  Display the total price of each Flavour from goods table and sort them by price ?
+
+  
+  
+ Q 35.
+Display average price for each Food from goods table and sort them by average price ?
+  
+  
+ 

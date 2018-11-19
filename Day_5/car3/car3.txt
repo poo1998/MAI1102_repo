@@ -1,0 +1,69 @@
+﻿1create a new database named - car_database
+
+import two csv into that - 
+1. cars_data.csv
+2. car_names.csv
+
+TASK 16 - 
+-- Find all Reanults (’renault’) in the database. 
+
+-- For each, report the name and the year. 
+
+-- Sort output by year.
+
+
+
+TASK 17 - 
+Find all cars produced by Volvo between 1977 and 1981 (inclusive).
+
+Report the name of the car and the year it was produced,
+sort output
+ in ascending order by the year.
+
+
+Task 18 - 
+Find all non-four cylinder cars produced in 1980 that have a better
+ fuel economy better 
+than 20 MPG and that accelerate to 60 mph faster
+than in 15 seconds. 
+
+Report the name of the car and the name of the automaker.
+
+Task 19 -
+Report all vehicles with  acceleration greater than 11  . 
+For each vehicle, report
+its full name and the year of production and sort the result with 
+production year and secondary sort it by hourse power.
+
+
+
+TASK 20 - 
+Find the most fuel-efficient 8-cylinder model. 
+
+Report the full name of
+the car, the year it was produced.
+
+
+TASK 21 -
+Find all car names with at least one light
+(weight less than 2000lbs)
+ car between 1979 and 1981 (inclusively).
+
+Output the full name of the company and 
+Each company should be reported just once.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+*****************          dataset students database            ***************** 
+
+1. find the students lastname with 3 characters  from end
+
+
+
+
+2. find the students lastname with 3 characters  from starting
+
+
+
+
+3. remove the EX from the last name of all the students
+
+
+
+4. find the location of 'N' in students lastname
+
+
+	
+5. get the substring from index 4 to 2 characters from lastname column
+
+
+6. find the sum of students grade and print the average grade from all the classrooms
+
+7. show all the classroom id those teachers associated and also in which student studies
+
+
+8.  -- display the students who goes with the same bus route 
+
+
+
+
+
+
